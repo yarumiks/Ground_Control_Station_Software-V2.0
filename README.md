@@ -24,3 +24,5 @@ git clone https://github.com/yarumiks/Ground_Control_Station_Software-V2.0.git
 cd Ground_Control_Station_Software-V2.0
 ```
 * If visual studio is installed, run the file with `.sln` extension from here.
+
+* If you want to run the project directly, run the `setup.exe` file inside the project after `clone` it.
