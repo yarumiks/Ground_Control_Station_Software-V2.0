@@ -26,3 +26,7 @@ cd Ground_Control_Station_Software-V2.0
 * If visual studio is installed, run the file with `.sln` extension from here.
 
 * If you want to run the project directly, run the `setup.exe` file inside the project after `clone` it.
+
+  ## Example
+
+  https://github.com/user-attachments/assets/55f716b4-74d6-4e80-ac30-0165235505cd
