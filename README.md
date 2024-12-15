@@ -1,4 +1,4 @@
-# Yer-İstasyonu
+# Ground Control Software
 
 ### What is ground station software and why is it used?
 Ground station software is a software application used to analyze wirelessly communicating UAV or Rocket systems in the space and aviation industry. 
